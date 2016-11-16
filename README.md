@@ -1,2 +1,3 @@
 # hello-
 i'm a newbie on this, so..help me, guide me...
+so i can build advantageous things
